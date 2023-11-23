@@ -1,5 +1,5 @@
 - 👋 Ola, Eu sou @Joseffh ...
-- 👀 Eu estou interesado em programação .lua
+- 👀 Eu estou interesado em programação .lua no MTA
 - 🌱 Eu estou aprendedndo sobre programação
 - 💞️ Procuro colaborar em ...
 - 📫 Para entrar em contato comigo me adicione no Discord: joseffh#1294
