@@ -1,5 +1,5 @@
 - 👋 Ola, Eu sou @Joseffh ...
 - 👀 Eu estou interesado em programação .lua/python
 - 🌱 Eu estou aprendedndo sobre programação
-- 💞️ Procuro colaborar em projetos python
+- 💞️ Procuro colaborar em projetos python/JS/Html/CSS
 - 📫 Para entrar em contato comigo me adicione no Discord: joseffh
